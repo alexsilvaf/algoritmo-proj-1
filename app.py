@@ -1,5 +1,5 @@
 # jogo_da_velha.py
-# Autor: (seu nome)
+# Autor: Alex, Murilo, Paloma
 # Um jogo da velha simples para 2 jogadores no terminal.
 
 def criar_tabuleiro():
